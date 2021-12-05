@@ -1,0 +1,10 @@
+{
+	"_id": "50RoundVector45",
+	"_tpl": "50RoundVector45",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}
